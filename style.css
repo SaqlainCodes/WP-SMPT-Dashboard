@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ .SMPT__logo--section{
+    background-color: #f0f0f1;
+    padding: 20px 30px;
+ }
+ .SMPT__menu--section ul{
+    list-style: none;
+    padding: 20px 0px;
+    margin-bottom: 0px;
+ }
+ .SMPT__menu--section ul li {
+    display: inline;  
+    margin-right: 20px;
+    padding-left: 24px; 
+     
+}
+
+.dash__board {
+    background-color: #f0f0f1;
+    padding: 20px 24px 20px 20px ;
+    /* padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 24px; */
+}
+.dash__board--field {
+    display: flex;
+    /* gap:150px; */
+}
+#license-key{
+    width: 350px;
+    padding: 5px;
+}
+#verify-buttn{
+    padding: 5px 10px 5px 10px;
+    background-color: #e27730;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+.dash__board--connection h3{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#wizard-buttn{
+    padding: 5px 10px 5px 10px;
+    background-color: #728e9e;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}  
+.dash__board--key h6{
+    padding-top: 10px;
+}
